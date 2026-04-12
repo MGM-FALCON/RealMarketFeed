@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-primary: #2563eb;
+  --color-primary-dark: #1d4ed8;
+  --color-accent: #f59e0b;
+}
+
+/* Light mode */
+:root {
+  --background: #f9fafb;
+  --foreground: #111827;
+  --card-bg: #ffffff;
+  --card-border: #e5e7eb;
+  --muted: #6b7280;
+  --badge-bg: #f3f4f6;
+  --badge-text: #374151;
+  --input-bg: #ffffff;
+  --input-border: #d1d5db;
+  --sticky-bg: rgba(249, 250, 251, 0.85);
+}
+
+/* Dark mode */
+.dark {
+  --background: #0f172a;
+  --foreground: #f1f5f9;
+  --card-bg: #1e293b;
+  --card-border: #334155;
+  --muted: #94a3b8;
+  --badge-bg: #334155;
+  --badge-text: #cbd5e1;
+  --input-bg: #1e293b;
+  --input-border: #475569;
+  --sticky-bg: rgba(15, 23, 42, 0.85);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), system-ui, sans-serif;
+  transition: background-color 0.2s, color 0.2s;
+}

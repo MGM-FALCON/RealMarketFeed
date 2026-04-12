@@ -1,0 +1,219 @@
+[
+    {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+        "category": "crypto",
+        "tags": [
+            "btc",
+            "crypto",
+            "news"
+        ],
+        "description": "Crypto news and market updates from one of the leading crypto media outlets."
+    },
+    {
+        "name": "CoinTelegraph",
+        "url": "https://cointelegraph.com/rss",
+        "category": "crypto",
+        "tags": [
+            "btc",
+            "eth",
+            "crypto"
+        ],
+        "description": "Latest cryptocurrency news, analysis, and market updates."
+    },
+    {
+        "name": "Bitcoin Magazine",
+        "url": "https://bitcoinmagazine.com/.rss/full/",
+        "category": "crypto",
+        "tags": [
+            "btc",
+            "bitcoin"
+        ],
+        "description": "The oldest and most established source of Bitcoin news and information."
+    },
+    {
+        "name": "Decrypt",
+        "url": "https://decrypt.co/feed",
+        "category": "crypto",
+        "tags": [
+            "crypto",
+            "web3",
+            "defi"
+        ],
+        "description": "Demystifying the decentralized web with news and guides."
+    },
+    {
+        "name": "The Block",
+        "url": "https://www.theblock.co/rss.xml",
+        "category": "crypto",
+        "tags": [
+            "crypto",
+            "institutional"
+        ],
+        "description": "Institutional-grade crypto research and analysis."
+    },
+    {
+        "name": "DailyFX",
+        "url": "https://www.dailyfx.com/feeds/all",
+        "category": "forex",
+        "tags": [
+            "forex",
+            "analysis",
+            "usd"
+        ],
+        "description": "Free forex trading signals, analysis, and education from IG Group."
+    },
+    {
+        "name": "FXStreet",
+        "url": "https://www.fxstreet.com/rss/news",
+        "category": "forex",
+        "tags": [
+            "forex",
+            "eur",
+            "usd"
+        ],
+        "description": "Real-time forex news and analysis for global currency markets."
+    },
+    {
+        "name": "Investing.com Forex",
+        "url": "https://www.investing.com/rss/forex.rss",
+        "category": "forex",
+        "tags": [
+            "forex",
+            "analysis"
+        ],
+        "description": "Forex news and market data from Investing.com."
+    },
+    {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/rssindex",
+        "category": "stocks",
+        "tags": [
+            "stocks",
+            "equities",
+            "markets"
+        ],
+        "description": "Top financial and stock market news from Yahoo Finance."
+    },
+    {
+        "name": "MarketWatch",
+        "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+        "category": "stocks",
+        "tags": [
+            "stocks",
+            "markets",
+            "news"
+        ],
+        "description": "Top stories from MarketWatch covering stocks, bonds, and market trends."
+    },
+    {
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/market_currents.xml",
+        "category": "stocks",
+        "tags": [
+            "stocks",
+            "analysis",
+            "dividends"
+        ],
+        "description": "Market currents and stock analysis from Seeking Alpha contributors."
+    },
+    {
+        "name": "Benzinga",
+        "url": "https://www.benzinga.com/feed",
+        "category": "stocks",
+        "tags": [
+            "stocks",
+            "options",
+            "news"
+        ],
+        "description": "Actionable trading ideas and financial news for active traders."
+    },
+    {
+        "name": "Motley Fool",
+        "url": "https://www.fool.com/feeds/index.aspx",
+        "category": "stocks",
+        "tags": [
+            "stocks",
+            "investing",
+            "analysis"
+        ],
+        "description": "Stock market insights and investment advice from The Motley Fool."
+    },
+    {
+        "name": "Reuters Business",
+        "url": "https://www.reutersagency.com/feed/",
+        "category": "macro",
+        "tags": [
+            "macro",
+            "economy",
+            "global"
+        ],
+        "description": "Global macroeconomic news and business updates from Reuters."
+    },
+    {
+        "name": "Bloomberg Markets",
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "category": "macro",
+        "tags": [
+            "macro",
+            "markets",
+            "finance"
+        ],
+        "description": "Global markets and macroeconomic news from Bloomberg."
+    },
+    {
+        "name": "Federal Reserve",
+        "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+        "category": "macro",
+        "tags": [
+            "macro",
+            "fed",
+            "rates"
+        ],
+        "description": "Official press releases and policy updates from the Federal Reserve."
+    },
+    {
+        "name": "ECB Press Releases",
+        "url": "https://www.ecb.europa.eu/rss/press.html",
+        "category": "macro",
+        "tags": [
+            "macro",
+            "ecb",
+            "eur"
+        ],
+        "description": "Press releases and policy decisions from the European Central Bank."
+    },
+    {
+        "name": "Zero Hedge",
+        "url": "https://feeds.feedburner.com/zerohedge/feed",
+        "category": "macro",
+        "tags": [
+            "macro",
+            "gold",
+            "contrarian"
+        ],
+        "description": "Alternative financial analysis and macroeconomic commentary."
+    },
+    {
+        "name": "Kitco Gold News",
+        "url": "https://www.kitco.com/rss/gold.xml",
+        "category": "macro",
+        "tags": [
+            "gold",
+            "commodities",
+            "precious-metals"
+        ],
+        "description": "Gold prices, news, and precious metals market analysis from Kitco."
+    },
+    {
+        "name": "RealMarketAPI",
+        "url": "https://realmarketapi.com/feed.xml",
+        "category": "macro",
+        "tags": [
+            "forex",
+            "commodities",
+            "stock"
+        ],
+        "description": "Real-time and historical market data APIs for developers and traders."
+    }
+]
