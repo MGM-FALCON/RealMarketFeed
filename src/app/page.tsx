@@ -28,33 +28,6 @@ export default function HomePage() {
 
       {/* All feeds with search */}
       <HomeFeedList feeds={feeds} allTags={allTags} />
-
-      {/* Powered by RealMarketAPI */}
-      <section
-        className="border-t py-16"
-        style={{ borderColor: "var(--card-border)" }}
-      >
-        <div className="mx-auto max-w-6xl px-4 text-center">
-          <p className="text-sm font-medium" style={{ color: "var(--muted)" }}>
-            Powered by
-          </p>
-          <a
-            href="https://realmarketapi.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-1 inline-block text-2xl font-bold text-blue-600 hover:underline"
-          >
-            RealMarketAPI
-          </a>
-          <p
-            className="mt-2 text-sm"
-            style={{ color: "var(--muted)" }}
-          >
-            Real-time and historical market data APIs for developers and
-            traders.
-          </p>
-        </div>
-      </section>
     </>
   );
 }

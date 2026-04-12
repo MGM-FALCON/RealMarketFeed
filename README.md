@@ -2,7 +2,21 @@
 
 A curated, open-source directory of trading RSS feeds for crypto, forex, stocks, and macro markets.
 
+🔗 **Live site:** [RealMarketFeed](https://realmarketfeed.vercel.app/)
+
 Built with Next.js, TypeScript, and TailwindCSS. Static-first, no database — deploy anywhere.
+
+## Table of Contents
+
+- [Feed Directory](#feed-directory)
+  - [Crypto](#-crypto)
+  - [Forex](#-forex)
+  - [Stocks](#-stocks)
+  - [Macro](#-macro)
+- [Getting Started](#getting-started)
+- [Tech Stack](#tech-stack)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Feed Directory
 
