@@ -59,6 +59,7 @@ Built with Next.js, TypeScript, and TailwindCSS. Static-first, no database — d
 | Zero Hedge | [RSS](https://feeds.feedburner.com/zerohedge/feed) | `macro` `gold` `contrarian` |
 | Kitco Gold News | [RSS](https://www.kitco.com/rss/gold.xml) | `gold` `commodities` `precious-metals` |
 | RealMarketAPI | [RSS](https://realmarketapi.com/feed.xml) | `forex` `commodities` `stock` |
+| Nasdaq Investing | [RSS](https://www.nasdaq.com/feed/rssoutbound?category=Investing) | `news` `analysis` `stock` |
 
 ## Contributing
 
