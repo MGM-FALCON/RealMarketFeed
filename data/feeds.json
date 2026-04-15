@@ -53,28 +53,6 @@
         "description": "Institutional-grade crypto research and analysis."
     },
     {
-        "name": "DailyFX",
-        "url": "https://www.dailyfx.com/feeds/all",
-        "category": "forex",
-        "tags": [
-            "forex",
-            "analysis",
-            "usd"
-        ],
-        "description": "Free forex trading signals, analysis, and education from IG Group."
-    },
-    {
-        "name": "FXStreet",
-        "url": "https://www.fxstreet.com/rss/news",
-        "category": "forex",
-        "tags": [
-            "forex",
-            "eur",
-            "usd"
-        ],
-        "description": "Real-time forex news and analysis for global currency markets."
-    },
-    {
         "name": "Investing.com Forex",
         "url": "https://www.investing.com/rss/forex.rss",
         "category": "forex",
@@ -140,17 +118,6 @@
         "description": "Stock market insights and investment advice from The Motley Fool."
     },
     {
-        "name": "Reuters Business",
-        "url": "https://www.reutersagency.com/feed/",
-        "category": "macro",
-        "tags": [
-            "macro",
-            "economy",
-            "global"
-        ],
-        "description": "Global macroeconomic news and business updates from Reuters."
-    },
-    {
         "name": "Bloomberg Markets",
         "url": "https://feeds.bloomberg.com/markets/news.rss",
         "category": "macro",
@@ -193,17 +160,6 @@
             "contrarian"
         ],
         "description": "Alternative financial analysis and macroeconomic commentary."
-    },
-    {
-        "name": "Kitco Gold News",
-        "url": "https://www.kitco.com/rss/gold.xml",
-        "category": "macro",
-        "tags": [
-            "gold",
-            "commodities",
-            "precious-metals"
-        ],
-        "description": "Gold prices, news, and precious metals market analysis from Kitco."
     },
     {
         "name": "RealMarketAPI",

@@ -34,8 +34,6 @@ Built with Next.js, TypeScript, and TailwindCSS. Static-first, no database — d
 
 | Name | Feed URL | Tags |
 |------|----------|------|
-| DailyFX | [RSS](https://www.dailyfx.com/feeds/all) | `forex` `analysis` `usd` |
-| FXStreet | [RSS](https://www.fxstreet.com/rss/news) | `forex` `eur` `usd` |
 | Investing.com Forex | [RSS](https://www.investing.com/rss/forex.rss) | `forex` `analysis` |
 
 ### 📈 Stocks
@@ -52,12 +50,10 @@ Built with Next.js, TypeScript, and TailwindCSS. Static-first, no database — d
 
 | Name | Feed URL | Tags |
 |------|----------|------|
-| Reuters Business | [RSS](https://www.reutersagency.com/feed/) | `macro` `economy` `global` |
 | Bloomberg Markets | [RSS](https://feeds.bloomberg.com/markets/news.rss) | `macro` `markets` `finance` |
 | Federal Reserve | [RSS](https://www.federalreserve.gov/feeds/press_all.xml) | `macro` `fed` `rates` |
 | ECB Press Releases | [RSS](https://www.ecb.europa.eu/rss/press.html) | `macro` `ecb` `eur` |
 | Zero Hedge | [RSS](https://feeds.feedburner.com/zerohedge/feed) | `macro` `gold` `contrarian` |
-| Kitco Gold News | [RSS](https://www.kitco.com/rss/gold.xml) | `gold` `commodities` `precious-metals` |
 | RealMarketAPI | [RSS](https://realmarketapi.com/feed.xml) | `forex` `commodities` `stock` |
 
 ## Contributing

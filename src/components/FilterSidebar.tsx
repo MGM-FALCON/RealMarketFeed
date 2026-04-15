@@ -141,6 +141,23 @@ export function FilterSidebar({
       <p className="text-xs" style={{ color: "var(--muted)" }}>
         {resultCount} feed{resultCount !== 1 ? "s" : ""} found
       </p>
+
+      {/* Other Projects */}
+      <div className="border-t pt-4" style={{ borderColor: "var(--card-border)" }}>
+        <label className="mb-1.5 block text-xs font-semibold uppercase tracking-wide" style={{ color: "var(--muted)" }}>
+          Other Projects
+        </label>
+        <a
+          href="https://realmarketapi.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition-colors hover:bg-[var(--badge-bg)]"
+          style={{ color: "var(--foreground)" }}
+        >
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+          RealMarketAPI
+        </a>
+      </div>
     </aside>
   );
 }
