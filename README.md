@@ -55,6 +55,7 @@ Built with Next.js, TypeScript, and TailwindCSS. Static-first, no database — d
 | ECB Press Releases | [RSS](https://www.ecb.europa.eu/rss/press.html) | `macro` `ecb` `eur` |
 | Zero Hedge | [RSS](https://feeds.feedburner.com/zerohedge/feed) | `macro` `gold` `contrarian` |
 | RealMarketAPI | [RSS](https://realmarketapi.com/feed.xml) | `forex` `commodities` `stock` |
+| Nasdaq Investing | [RSS](https://www.nasdaq.com/feed/rssoutbound?category=Investing) | `news` `analysis` `stock` |
 
 ## Contributing
 

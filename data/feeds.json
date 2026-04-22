@@ -171,5 +171,16 @@
             "stock"
         ],
         "description": "Real-time and historical market data APIs for developers and traders."
+    },
+    {
+        "name": "Nasdaq Investing",
+        "url": "https://www.nasdaq.com/feed/rssoutbound?category=Investing",
+        "category": "macro",
+        "tags": [
+            "news",
+            "analysis",
+            "stock"
+        ],
+        "description": "This feed is responsible for generating the rss feed related to the topic Investing"
     }
 ]
