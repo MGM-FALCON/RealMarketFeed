@@ -29,6 +29,7 @@ Built with Next.js, TypeScript, and TailwindCSS. Static-first, no database — d
 | Bitcoin Magazine | [RSS](https://bitcoinmagazine.com/.rss/full/) | `btc` `bitcoin` |
 | Decrypt | [RSS](https://decrypt.co/feed) | `crypto` `web3` `defi` |
 | The Block | [RSS](https://www.theblock.co/rss.xml) | `crypto` `institutional` |
+| La Gazette Crypto | [RSS](https://lagazettecrypto.fr/feed/) | `crypto` `bitcoin` `fr` |
 
 ### 💱 Forex
 
